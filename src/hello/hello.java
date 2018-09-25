@@ -7,6 +7,7 @@ public class hello {
 
 	public static void main(String[] args) {
 		//这是没意思
+		//sdsds
 		SimpleDateFormat formatter = new SimpleDateFormat("yyyy-MMM-dd HH:mm:ss:SSS");
 		String formatStr =formatter.format(new Date());
 		System.out.println(formatStr);//2017-����-15 13:17:08:355
